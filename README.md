@@ -1,0 +1,1 @@
+Android app to try out camera input + ai/ml.
